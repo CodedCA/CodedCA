@@ -1,8 +1,8 @@
 ## Start.
 
-> Densevolvedor e programador
+> Dev and programmer.
 
-| Desenvolvimento |
+| Dev. |
 | ------ |
 | Websites |
 | Servers |
@@ -19,10 +19,6 @@
 | Vux Community |
 | BitClicker |
 | VXC Crypto |
-
-## Social Medias.
-
-- [Twitter](https://twitter.com/CodedCA)
 
 ## Badges.
 <div style="display: inline_block"><br>
