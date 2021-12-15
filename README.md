@@ -4,7 +4,6 @@
 Dev and programmer.
 ```
 #
-
 >  Projects.
 - Vux Dev.
 - Vux Community.
