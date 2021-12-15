@@ -1,11 +1,10 @@
 # Start.
 
-## Dev and programmer.
-
-> Projects.
-- Vux Dev.
-- Vux Community.
-- Skript Admin Plugin.
+>  Dev and programmer.
+- Projects.
+  Vux Dev.
+  Vux Community.
+  Skript Admin Plugin.
 
 ## Badges.
 <div style="display: inline_block"><br>
