@@ -1,8 +1,8 @@
-## Start.
+# Start.
 
-> Dev and programmer.
+## Dev and programmer.
 
-||Projects.||
+> Projects.
 - Vux Dev.
 - Vux Community.
 - Skript Admin Plugin.
