@@ -2,23 +2,10 @@
 
 > Dev and programmer.
 
-| Dev. |
-| ------ |
-| Websites |
-| Servers |
-| Scripts |
-| Chat BOT |
-| Games |
-
-
-## Projects.
-
-| Works |
-| ------ |
-| Done! |
-| Vux Community |
-| BitClicker |
-| VXC Crypto |
+	> Projects.
+- Vux Dev.
+- Vux Community.
+- Skript Admin Plugin.
 
 ## Badges.
 <div style="display: inline_block"><br>
@@ -28,10 +15,6 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <p></p>
-
-#
-
-<img align="center" src="https://cdn.discordapp.com/avatars/322109168834052096/a_4477c6233c4a6c4b7156e9999df5946a.gif">
 
 #
 
