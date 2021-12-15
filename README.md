@@ -2,7 +2,7 @@
 
 > Dev and programmer.
 
-	> Projects.
+|Projects.|
 - Vux Dev.
 - Vux Community.
 - Skript Admin Plugin.
