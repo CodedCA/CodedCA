@@ -1,13 +1,13 @@
 # Start.
 
 ```
-Dev and programmer.
+Front-end and Back-end student.
 ```
 #
 >  Projects.
 - Vux Dev.
-- Vux Community.
-- Skript Admin Plugin.
+- (Coming).
+- Inline.
 
 ## Badges.
 <div style="display: inline_block"><br>
