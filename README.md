@@ -3,7 +3,7 @@
 Front-end and Back-end student.
 </p>
 
-<p align="center"><a href="http://coded.today">My website</a></p>
+<p align="center"><a href="http://coded.today" target="blank_" rel="noreferrer noopener">My website</a></p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CodedCA&show_icons=true&theme=radical">
