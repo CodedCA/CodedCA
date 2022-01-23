@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, my name is Claudio A.</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, my name is Claudio A.</h1>
 <p align="center">
 Front-end and Back-end student.
 </p>
