@@ -4,9 +4,11 @@ Front-end and Back-end student.
 </p>
 
 <p align="center"><a href="http://coded.today" target="blank_" rel="noreferrer noopener">My website</a></p>
-
+<h3 align="center">⚙️  GitHub Analytics</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodedCA&show_icons=true&theme=radical">
+
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=CodedCA&show_icons=true&theme=radical" alt="coded's most languages">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedca&layout=compact&theme=radical" alt="coded's most languages"/>
 </div>
 
 #
