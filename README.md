@@ -16,6 +16,10 @@ Front and Back-end student.
 - Vux Dev.
 - Inline.
 - Dark Box
+>  Specializations.
+- Flask.
+- Jinja.
+- Discord.
 #
 <h3 align="center">Languages.</h3>
 <div style="display: inline_block" align="center"><br>
